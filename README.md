@@ -1,6 +1,7 @@
 # Tarea 2 AYD1
 
-
+Nombre: Luis Antonio Castillo Javier
+Carné: 202003745
 
 ## Comandos para el despliegue de docker
 
